@@ -5,7 +5,7 @@ export const StyledButton = styled.Pressable`
   border-radius: 8px;
   align-items: center;
   opacity: ${(props) => (props.pressed ? 0.8 : 1)};
-  background-color: ${(props) => (props.disabled ? "#ccc" : "#0f0f0f")};
+  background-color: ${(props) => (props.disabled ? "#B2B2B2" : "#191717")};
 `;
 
 export const ButtonText = styled.Text`
