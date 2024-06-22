@@ -14,7 +14,7 @@ export const Welcome = ({ onComplete }) => {
 
   return (
     <SafeArea>
-      <WelcomeImage source={require("../../assets/Welcome/Welcome.png")} />
+      <WelcomeImage source={require("../../assets/welcome/welcome.png")} />
       <TextContainer>
         <Title>Ecommerce-App</Title>
         <Description>
