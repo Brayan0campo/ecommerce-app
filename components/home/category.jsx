@@ -21,7 +21,7 @@ const CategoryComponent = () => {
 
   const handlePress = (brand) => {
     dispatch(setCategorySelected(brand));
-    navigate(ROUTE.ITEM_LIST_CATEGORIES, { brand });
+    navigate(ROUTE.ITEM_LIST_CATEGORIES, { category: brand });
   };
 
   if (isLoading) {
