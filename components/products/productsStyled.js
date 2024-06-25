@@ -44,7 +44,7 @@ export const SearchContainer = styled.View`
   ${(props) =>
     props.isFocused &&
     `
-    border-color: ${theme.colors.primary[600]};
+    border-color: ${theme.colors.black};
   `}
 `;
 
