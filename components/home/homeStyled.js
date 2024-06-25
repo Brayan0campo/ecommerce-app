@@ -59,7 +59,7 @@ export const GridItem = styled.View`
   margin-bottom: 16px;
   align-items: center;
   justify-content: center;
-  background-color: #191717;
+  background-color: #7AA2E3;
 `;
 
 export const GridIcon = styled.View`
