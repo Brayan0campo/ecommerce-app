@@ -1,0 +1,142 @@
+[
+  {
+    "brand": "apple",
+    "id": 1,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone15pro-digitalmat-gallery-3-202309?wid=728&hei=666&fmt=png-alpha&.v=1693081542150",
+    "model": "iPhone 15 Pro",
+    "price": 999
+  },
+  {
+    "brand": "apple",
+    "id": 2,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone14plus-digitalmat-gallery-3-202209?wid=728&hei=666&fmt=png-alpha&.v=1662055814336",
+    "model": "iPhone 14 Plus",
+    "price": 299
+  },
+  {
+    "brand": "apple",
+    "id": 3,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone13-digitalmat-gallery-3-202203?wid=728&hei=666&fmt=png-alpha&.v=1644988765122",
+    "model": "iPhone 13",
+    "price": 599
+  },
+  {
+    "brand": "apple",
+    "id": 4,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba13-m2-digitalmat-gallery-1-202402?wid=728&hei=666&fmt=png-alpha&.v=1707263976493",
+    "model": "MacBook Air",
+    "price": 999
+  },
+  {
+    "brand": "xiaomi",
+    "id": 5,
+    "image": "https://i02.appmifile.com/91_operatorx_operatorx_opx/24/02/2024/4eafcd40186edde466860564f9ff71e9.png",
+    "model": "Xiaomi 14 Ultra",
+    "price": 999
+  },
+  {
+    "brand": "xiaomi",
+    "id": 6,
+    "image": "https://i02.appmifile.com/566_operatorx_operatorx_opx/26/09/2023/89f43e13fdca61665166132eb9742ef5.png",
+    "model": "Xiaomi 13T",
+    "price": 799
+  },
+  {
+    "brand": "xiaomi",
+    "id": 7,
+    "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1666344986.57884237.png",
+    "model": "Mi 11 Lite",
+    "price": 399
+  },
+  {
+    "brand": "xiaomi",
+    "id": 8,
+    "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1666851200.21013304.png",
+    "model": "Xiaomi Pad 5",
+    "price": 999
+  },
+  {
+    "brand": "samsung",
+    "id": 9,
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/latin/2401/gallery/latin-galaxy-s24-s928-sm-s928bztugto-thumb-539326291?$216_216_PNG$",
+    "model": "Galaxy S24 Ultra",
+    "price": 999
+  },
+  {
+    "brand": "samsung",
+    "id": 10,
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/latin/sm-s918bzgigto/gallery/latin-galaxy-s23-s918-473229-sm-s918bzgigto-thumb-537640128?$172_172_PNG$",
+    "model": "Galaxy S23 Ultra ",
+    "price": 799
+  },
+  {
+    "brand": "samsung",
+    "id": 11,
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/latin/2202/gallery/latin-galaxy-s22-ultra-s908-sm-s908edrjtpa-thumb-530979582?$172_172_PNG$",
+    "model": "Galaxy S22 Ultra",
+    "price": 599
+  },
+  {
+    "brand": "samsung",
+    "id": 12,
+    "image": "https://shop.samsung.com/latin/pub/media/catalog/product/cache/45eacecef37c2d34dea6bd1d0132e77c/0/0/009-galaxy-tabs9ultra-graphite-combo_thumb_1_1.png",
+    "model": "Galaxy Tab S9",
+    "price": 1599
+  },
+  {
+    "brand": "lenovo",
+    "id": 13,
+    "image": "https://p1-ofp.static.pub//medias/25662761815_T14AMDG4Black_202404090205141715569538427.png",
+    "model": "ThinkPad T14",
+    "price": 1200
+  },
+  {
+    "brand": "lenovo",
+    "id": 14,
+    "image": "https://p4-ofp.static.pub/fes/cms/2022/12/05/2fe836g93vaehq5bqefyr5n3uryldg141098.png",
+    "model": "IdeaPad Slim 5",
+    "price": 799
+  },
+  {
+    "brand": "lenovo",
+    "id": 15,
+    "image": "https://p1-ofp.static.pub/fes/cms/2023/05/23/lceqfm1l1c339tpf4dmre09rhto0or706167.png",
+    "model": "Lenovo ThinkPad E16",
+    "price": 599
+  },
+  {
+    "brand": "lenovo",
+    "id": 16,
+    "image": "https://p1-ofp.static.pub//fes/cms/2024/03/28/8ijsik5egvnqdk3m9zk2upo0skx5hg813963.png",
+    "model": "Lenovo ThinkPad L16",
+    "price": 399
+  },
+  {
+    "brand": "huawei",
+    "id": 17,
+    "image": "https://consumer.huawei.com/content/dam/huawei-cbg-site/latam/common/launch/0502/plp/pura-serie/pura70-pro.jpg",
+    "model": "HUAWEI Pura 70 Pro",
+    "price": 799
+  },
+  {
+    "brand": "huawei",
+    "id": 18,
+    "image": "https://consumer.huawei.com/content/dam/huawei-cbg-site/latam/latin/mkt/plp/phones/new/nova-series/nova12-se.jpg",
+    "model": "HUAWEI nova 12",
+    "price": 699
+  },
+  {
+    "brand": "huawei",
+    "id": 19,
+    "image": "https://consumer.huawei.com/content/dam/huawei-cbg-site/latam/latin/mkt/plp/phones/new/nova-series/nova-12i.jpg",
+    "model": "HUAWEI nova 12i",
+    "price": 799
+  },
+  {
+    "brand": "huawei",
+    "id": 20,
+    "image": "https://consumer.huawei.com/content/dam/huawei-cbg-site/latam/co/mkt/plp/new-tablets/all/matepad-2022.png",
+    "model": "HUAWEI MatePad",
+    "price": 1999
+  }
+]

@@ -35,7 +35,8 @@ const CartComponent = () => {
   );
 
   const confirmOrder = useCallback(async () => {
-    await triggerPost({ items, total, user });
+    const createdAt = new Date().toISOString();
+    await triggerPost({ items, total, user, createdAt });
     Toast.show({
       type: "success",
       text1: "Compra confirmada",
@@ -43,7 +44,7 @@ const CartComponent = () => {
     });
     setTimeout(() => {
       dispatch(clearCart());
-      navigation.navigate(ROUTE.ORDERS);
+      navigation.navigate(ROUTE.ORDERS, { refresh: true });
     }, 1500);
   }, [items, total, user, triggerPost, dispatch, navigation]);
 

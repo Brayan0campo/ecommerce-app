@@ -4,7 +4,7 @@ import { useFonts } from "expo-font";
 import * as SplashScreen from "expo-splash-screen";
 import { useEffect } from "react";
 import { Provider } from "react-redux";
-import { store } from "./store";
+import { store } from "./store/store";
 import { MainNavigator } from "./navigation/mainNavigator";
 import { init } from "./db";
 import Toast from "react-native-toast-message";
