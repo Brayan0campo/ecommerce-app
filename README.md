@@ -11,7 +11,6 @@ Este proyecto es una aplicación móvil de e-commerce desarrollada con React Nat
 - **Realización de Compras**: Los usuarios pueden confirmar la compra de los productos en el carrito.
 - **Historial de Pedidos**: Los usuarios pueden ver una lista de sus pedidos anteriores.
 - **Autenticación**: Los usuarios pueden registrarse e iniciar sesión en la aplicación.
-- **Notificaciones**: Los usuarios reciben notificaciones sobre el estado de sus pedidos.
 
 ## Features Incluidos
 
@@ -38,8 +37,8 @@ Sigue los siguientes pasos para instalar y poner en marcha el proyecto:
 1. **Clonar el repositorio**:
 
    ```sh
-   git clone https://github.com/tu-usuario/tu-repositorio.git
-   cd tu-repositorio
+   git clone https://github.com/Brayan0campo/ecommerce-app.git
+   cd ecommerce-app
    ```
 
 2. **Instalar dependencias**:
@@ -52,16 +51,7 @@ Sigue los siguientes pasos para instalar y poner en marcha el proyecto:
 
    - Crear un proyecto en Firebase.
    - Habilitar la autenticación por correo y contraseña.
-   - Configurar una base de datos en tiempo real y copiar las credenciales en un archivo `.env`:
-     ```env
-     FIREBASE_API_KEY=your_api_key
-     FIREBASE_AUTH_DOMAIN=your_auth_domain
-     FIREBASE_DATABASE_URL=your_database_url
-     FIREBASE_PROJECT_ID=your_project_id
-     FIREBASE_STORAGE_BUCKET=your_storage_bucket
-     FIREBASE_MESSAGING_SENDER_ID=your_messaging_sender_id
-     FIREBASE_APP_ID=your_app_id
-     ```
+   - Configurar una base de datos en tiempo real y copiar las credenciales en un archivo `.env`
 
 4. **Iniciar la aplicación**:
 
@@ -96,7 +86,3 @@ Sigue los siguientes pasos para instalar y poner en marcha el proyecto:
 
 5. **Historial de Pedidos**:
    - Los usuarios pueden ver una lista de sus pedidos anteriores.
-
-## Contribuciones
-
-Las contribuciones son bienvenidas. Para contribuir, por favor realiza un fork del repositorio, crea una rama con tus cambios y envía un pull request.
